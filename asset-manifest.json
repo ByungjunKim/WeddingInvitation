@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/WeddingInvitation/static/css/main.9b138189.css",
+    "main.js": "/WeddingInvitation/static/js/main.5adad4cb.js",
+    "static/js/787.fbf4380c.chunk.js": "/WeddingInvitation/static/js/787.fbf4380c.chunk.js",
+    "static/media/4.jpg": "/WeddingInvitation/static/media/4.94b09873becc64249c58.jpg",
+    "static/media/3.jpg": "/WeddingInvitation/static/media/3.a8fc5ca281cf3fd44baa.jpg",
+    "static/media/2.jpg": "/WeddingInvitation/static/media/2.d92aeff9212c25b81e0f.jpg",
+    "static/media/1.jpg": "/WeddingInvitation/static/media/1.68a358e2cb3174d2af5e.jpg",
+    "static/media/map.svg": "/WeddingInvitation/static/media/map.00ccb8726b8e1cc2a2ac374231397203.svg",
+    "static/media/naver-map-icon.png": "/WeddingInvitation/static/media/naver-map-icon.2b87c75304e1bb87dd28.png",
+    "index.html": "/WeddingInvitation/index.html",
+    "main.9b138189.css.map": "/WeddingInvitation/static/css/main.9b138189.css.map",
+    "main.5adad4cb.js.map": "/WeddingInvitation/static/js/main.5adad4cb.js.map",
+    "787.fbf4380c.chunk.js.map": "/WeddingInvitation/static/js/787.fbf4380c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b138189.css",
+    "static/js/main.5adad4cb.js"
+  ]
+}
